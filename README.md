@@ -1,1 +1,1 @@
-### Utils features and functions to help with multiple cases 
+### Utils, features and functions to help with multiple cases 
