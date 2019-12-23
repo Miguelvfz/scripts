@@ -1,0 +1,5 @@
+/// <summary>
+/// Creates a new Transaction on the DataBase needing at least a TRANSACTION TYPE.
+/// </summary>
+/// <param name="transaction">At least need a TransactionType.</param>
+/// <returns>The Transaction ID.</returns>
